@@ -3,3 +3,135 @@ This is a test.
 You can click [here](https://www.google.com) to go to the Google homepage.
 
 You can click on the full link as well: https://www.google.com
+
+<div>
+<div>
+<div><img alt="def intestazione" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6276" border="0"></div>
+<div><strong><font color="#0426c6">Newsletter n° 39 del&nbsp;30 settembre&nbsp;2016</font></strong></div>
+<div></div>
+<div><font color="#0426c6"><strong>IN PRIMO PIANO </strong></font></div>
+<div><font color="#0426c6"><img width="281" height="232" style="WIDTH: 270px; HEIGHT: 163px" alt="posa prima pietra palestra ginnastica ritmica Malagò Agabio Corti " src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=21560"></font></div>
+<div><font color="#0426c6"><font color="#000000"></font></font>&nbsp;</div>
+<div><font color="#0426c6"><font color="#000000"><font color="#990066"><strong>Al via i lavori per il Centro Federale di Ginnastica Ritmica di Largo Atleti&nbsp;Azzurri d'Italia. </strong></font>&nbsp;Ieri&nbsp;il Sindaco Roberto Corti, insieme ai presidenti del&nbsp;CONI Giovanni Malagò e della&nbsp;FGI&nbsp;Riccardo Agabio hanno partecipato alla cerimonia per la posa della prima pietra della nuova palestra che diverrà la casa delle 'Farfalle Azzurre' in Città, oltre che centro sportivo federale di ginnastica ritmica. La nuova struttura sorgerà accanto&nbsp;al PalaBancoDesio, nell’area di Largo&nbsp;Atleti Azzurri d’Italia.</font></font></div>
+<div><font color="#0426c6"><font color="#000000">&nbsp;</font></font></div><font color="#0426c6"><font color="#000000">
+</font></font><div><font color="#0426c6"><font color="#000000">
+</font></font><div><font color="#0426c6"><font color="#000000">
+<div><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40808" target="_self"><strong><font color="#990066">Festa di Desio 2016</font></strong></a></font></strong>. <font color="#000000">Festa della Città in occasione della Festa Patronale della Madonna del Rosario, nei giorni 1-2-3-8 e 9 ottobre. La vendita dei biglietti della Torta del Cuore continua in&nbsp; Piazza Conciliazione fino a lunedì 3 ottobre.&nbsp;'Misurazione' della torta&nbsp;paesana da record in programma Sabato 1° ottobre&nbsp;a partire dalle ore 15, sempre in piazza Conciliazione. </font></div></font></font><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40930" target="_self"><strong><font color="#990066">Uffici comunali chiusi lunedì 3 ottobre</font></strong>.</a></font></strong>&nbsp;In occasione della festa della&nbsp;Patrona cittadina, gli uffici comunali rimarranno chiusi al pubblico.&nbsp;Sul nostro sito&nbsp;i dettagli degli orari per l'Ufficio di Stato Civile e il comando di Polizia Locale.</div></div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40768" target="_self"><strong><font color="#990066">Art Bonus di Reti Più - Scegli la Brianza che vuoi tu.</font></strong></a> Dal 20 settembre al 30 ottobre 2016, la Città al voto online per ottenere il finanziamento per&nbsp;il&nbsp;progetto di restauro conservativo per il monumento bronzeo a Papa Pio XI di Piazza Conciliazione. Vota anche tu!</div>
+<div>&nbsp;</div>
+<div>&nbsp;<strong><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40923" target="_self"><strong><font color="#990066">Riapre lo Spazio Gioco!</font></strong></a>&nbsp;</strong><font color="#000000">Iscrizioni da martedì 4 ottobre presso la scuola per l'Infanzia comunale di Via Novara dalle 9 alle 12.</font></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div><font color="#0426c6"><font color="#0426c6"><font color="#0426c6"><strong>APPUNTAMENTI</strong></font></font></font></div>
+<div><font size="+0"><img width="256" height="234" style="WIDTH: 258px; HEIGHT: 196px" alt="CDay 1 e 2 ottobre " src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=21520"></font></div>
+<div><font size="+0"><strong><font color="#990066"></font></strong>&nbsp;</font></div></div><font size="+0">
+</font><div><font size="+0">
+</font><div><font size="+0">
+</font><div><font size="+0">
+</font><div><font size="+0">
+<div><strong><font color="#990066"><a title="" href="http://parcodelleculture.it/appuntamenti/" target="_self"><strong><font color="#990066">Parco delle Culture.</font></strong></a></font></strong> Sul sito tutti&nbsp; i dettagli degli appuntamenti in programma per la grande riapertura del multisala culturale di Villa Tittoni . Primo appuntamento in programma il 1° ottobre con "CNight - Notturni - Odissea nello Spazio #3". Si prosegue il giorno dopo&nbsp;2 ottobre con "CDay Blue",&nbsp;un'intera giornata di musica laboratori teatro ed esperienze nella Villa di delizia cittadina. </div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40882" target="_self"><strong><font color="#990066">Mercatino dei libri usati.</font></strong></a> Un libro per le popolazioni terremotate dell'Italia centrale. Domenica 2 ottobre dalle 15 alle 18 nel cortile della Villa Tittoni (in caso di brutto tempo in biblioteca).<br></div>
+</font><div><font size="+0"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40891" target="_self"><strong><font color="#990066">Mostra di Patrizia Lovati. </font></strong></a></font></strong>"Amo il sole e il vento" è il titolo della mostra che si inaugura sabato 1 ottobre alle ore 17.30 in Villa Tittoni promossa dall'associazione Amici Museo Scalvini.</font><font color="#990066"></font></div></div></div></div><font color="#990066">
+</font><div><font color="#990066">
+<div><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40707" target="_self"><strong><font color="#990066">Concorso fotografico "Scatti di Sport":</font></strong></a>&nbsp;</font></strong><font color="#000000">fotografie per promuovere lo sport e suoi valori. La partecipazione è gratuita. Le opere selezionate verranno esposte presso Urban Center - Binario 7 Monza dall’8 al 18 dicembre 2016.</font></div></font></div>
+<div><font color="#990066"><font color="#000000"><a title="" href="https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40678" target="_self"><font color="#990066"><strong>Desio aderisce alla Bike Challenge Ride to Work</strong></font></a><font color="#000000"><strong>:</strong>&nbsp; tutti in sella&nbsp;per raggiungere in bici il luogo di lavoro e far vincere la Città. </font></font></font></div>
+<div><font color="#990066">
+<div>&nbsp;</div>
+</font><div><font color="#990066">
+</font><div><font color="#990066"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40820" target="_self"><strong><font color="#990066">"Puliamo il Mondo" l'iniziativa di Legambiente 'Tutto il mondo è a casa nostra!".</font></strong></a> </font></strong><font color="#000000">Venerdì 7 ottobre mattinata dedicata alla cura dei beni comuni e alla raccolta differenziata, insieme a Legambiente circolo 'R. Giussani' di Desio. </font></font></div></div></div><font color="#0426c6"><font color="#000000">
+</font><div><font color="#000000">
+</font><div><font color="#000000">
+<div><font color="#0426c6"><font color="#000000"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40902" target="_self"><font color="#0426c6"><font color="#000000"><strong><font color="#990066">Le attività in programma a&nbsp;Ottobre nel Centro ricreativo 'Il Girasole'</font></strong></font></font></a></font></strong></font><font color="#000000">. Un programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.</font><br><font size="+0"></font></font></div><font color="#0426c6"><font size="+0">
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0">
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0">
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0">
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0">
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0">
+<div><font color="#000000"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40938" target="_self"><font color="#000000"><strong><font color="#990066">66° Edizione della Giornata Nazionale per le Vittime degli Incidenti sul Lavoro.</font></strong></font></a></font></strong> </font><font color="#000000">L’ANMIL sezione di Monza&nbsp; celebra domenica 9 ottobre la 'Giornata Nazionale per le Vittime degli Incidenti sul Lavoro'.&nbsp; Celebrazione della S. Messa nella Basilica SS Siro e Materno alle ore 8.30, corteo e manifestazione in sala consiliare del comune alle ore 10.30.</font></div>
+</font></font></font><div><font color="#000000"><font color="#0426c6"><font size="+0"><font color="#000000"><br><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40917" target="_self"><strong><font color="#990066">Mostra micologica 2016. </font></strong></a></font></strong>Domenica 9 (dalle 9 alle 20) e lunedì 10 ottobre (per le scuole), Villa Tittoni ospiterà la Mostra Micologica promossa dal Gruppo Micologico Desiano con il patrocinio dell'Assessorato alla Cultura. </font></font></font></font><font color="#0426c6"><strong>CORSI, BANDI E OPPORTUNITA'</strong></font></div></div></div></div></div></div></div></div>
+</font><div><font color="#0426c6">
+<div><font color="#990066"><img width="299" height="168" style="WIDTH: 241px; HEIGHT: 154px" alt="bandi e opportunità / concorsi" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=18790" border="0"></font></div>
+<div>&nbsp;</div>
+<div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40743" target="_self"><font color="#000000"><strong><font color="#990066">Nu</font><font color="#990066">ovi corsi all'Hubout Makers Lab - Pertini</font></strong></font></a><font color="#990066"><strong>.</strong></font> Lo spazio di fabbricazione digitale aperto alla Città propone corsi per bambini, ragazzi e adulti. Iscrizioni aperte!</div>
+<div>&nbsp;</div>
+<div><a title="" href="http://parcodelleculture.it/desiolabacademy/" target="_self"><strong><font color="#990066">DesioLab Academy</font></strong></a> Vuoi imparare come sviluppare un progetto di impresa,&nbsp;acquisire competenze utili per il mercato del lavoro, diventare imprenditore di te stesso? Partecipa a “Tira fuori la tua idea d’impresa!” un corso di formazione gratuito dedicato ai disoccupati, a cura di DesioLab in collaborazione con Mestieri Lombardia. Iscrizioni entro il 18 ottobre 2016. </div></div>
+<div>&nbsp;</div>
+<div><font color="#990066"><strong><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40790" target="_self"><font color="#990066"><strong>&nbsp; Il 3 ottobre al via i corsi di ginnastica per adulti e terza età</strong></font></a>. </strong></font><font color="#000000">Iscrizioni dal 19 al 30 settembre 2016 presso il Centro Ricreativo Il Girasole.</font></div>
+<div><font color="#000000"></font>&nbsp;</div>
+<div><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40718" target="_self"><strong><font color="#990066">Bando Regionale "Dote Sport" 2015/2016</font></strong></a></font></strong>. Regione Lombardia ripropone anche quest'anno l'iniziativa Dote Sport. Domande esclusivamente online dal 15 settembre al 31 ottobre 2016.</div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/upload/desio/newsletter/Sostegno%20Inclusione%20Attiva%20(SIA).%20Da%20venerdì%202%20settembre%20è%20possibile%20presentare%20domanda%20per%20il%20Sostegno%20per%20l’Inclusione%20Attiva%20(SIA),%20una%20misura%20di%20contrasto%20alla%20povertà%20che%20prevede%20l'erogazione%20di%20un%20sussidio%20economico%20alle%20famiglie%20in%20condizioni%20economiche%20disagiate." target="_self"><font color="#000000"><strong><font color="#990066">Sostegno Inclusione Attiva (SIA). </font></strong></font></a>Da venerdì 2 settembre è possibile presentare domanda per il Sostegno per l’Inclusione Attiva (SIA), una misura di contrasto alla povertà che prevede l'erogazione di un sussidio economico alle famiglie in condizioni economiche disagiate.</div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40579" target="_self"><strong><font color="#990066">Rientro in formazione.</font></strong></a><font color="#990066"><strong>&nbsp;</strong></font><font color="#000000">Aperte le&nbsp;iscrizioni alle proposte formative del punto di erogazione CIPIA di Desio (ex CTP) in Piazza Nenni . Online l'elenco dei corsi e tutte le informazioni per iscriversi.</font></div>
+<div></div>
+<div><font color="#000000">
+<div><font color="#000000"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40501" target="_self"><font color="#000000"><strong><font color="#990066">Università del Tempo Libero 'Il Centro'.</font></strong></font></a></font></strong> Al via anche quest'anno i corsi dell'Università del Tempo Libero. Iscrizioni dal 28 settembre.</font></div>
+<div>&nbsp;</div>
+</font><div><font color="#000000"><a title="" href="https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=35369" target="_self"><font color="#990066"><strong>Bando assegnazione Box Auto in locazione.</strong></font></a><strong> </strong>Dal 7 gennaio 2016 è aperto il bando per l'assegnazione in locazione dei box di proprietà del Comune di Desio, disponibili sul territorio comunale.</font></div></div>
+</font><div><font color="#0426c6">
+</font><div><font color="#0426c6">
+<div>
+<div><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=27375" target="_self"><font color="#990066"><strong>Contributi per inquilini morosi incolpevoli </strong></font></a></font><font color="#000000">a sostegno dei nuclei familiari morosi incolpevoli titolari di contratto di locazione sul libero mercato e sottoposti a procedura di sfratto.</font><font color="#000000">Ampliamento del contributo a sostegno dei nuclei familiari morosi incolpevoli titolari di contratto di locazione sul libero mercato e sottoposti a procedura di sfratto. </font></div></div>
+</font><div><font color="#0426c6">
+</font><div><font color="#0426c6">
+<div><font color="#990066"><strong></strong></font>&nbsp;</div>
+</font><div><font color="#0426c6">
+<div>
+<div><font color="#990066"><strong><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40157" target="_self"><font color="#990066"><strong>Nidi gratis.</strong></font></a></strong></font> Tutte le informazioni per poter accedere al beneficio. </div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=36774" target="_self"><font color="#990066"><strong>Due Bandi a sostegno della mobilità nel settore della locazione.</strong></font></a> Una misura dedicata a proprietari e inquilini. Attenzione : il bando ha subito delle modifiche volte ad ampliare il sostegno ai cittadini.</div>
+<div><a title="" href="https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40612" target="_self">
+</a><div><a title="" href="https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40612" target="_self"></a><font color="#0426c6"><strong></strong></font>&nbsp;</div></div></div>
+<div><font color="#0426c6"><strong></strong></font>&nbsp;</div>
+<div><font color="#0426c6"><strong>AVVISI E SCADENZE</strong></font> </div>
+<div><img width="232" height="175" style="WIDTH: 260px; HEIGHT: 168px" alt="avvisi NL" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=18789" border="0"></div>
+<div>
+<div><font color="#990066"></font>&nbsp;</div>
+<div><font color="#990066"><strong><a title="" href="http://www.comune.desio.mb.it/servizi/menu/dinamica.aspx?idArea=8882&amp;idCat=16560&amp;ID=46393&amp;TipoElemento=Categoria" target="_self"><font color="#990066"><strong>Commissione Toponomastica - Urbanistica - Lavori Pubblici:</strong> </font></a>&nbsp;</strong></font><font color="#000000">Martedì 4 ottobre seduta pubblica alle ore 20.45 (Sala Blu Palazzo Comunale). Sul nostro sito, nella sezione commissioni consiliari, l'ordine del giorno.</font></div>
+<div><font color="#990066">&nbsp;</font></div></div><font color="#990066">
+</font></font><div><font color="#0426c6">
+</font><div><font color="#0426c6">
+<div><font color="#990066">
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40877" target="_self"><font color="#990066"><strong>Aggiornamento periodico dell'albo Presidenti di seggio elettorale:&nbsp;</strong></font></a>&nbsp;<font color="#000000">gli elettori in possesso dei requisiti di idoneità, che intendono proporre la loro iscrizione all’Albo, sono invitati a presentare domanda entro il 31 ottobre 2016.<br></font></div>
+<div><font color="#000000"><strong><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40869" target="_self"><font color="#000000"><strong><font color="#990066">Unioni Civili e Convivenze anagrafiche di fatto</font></strong></font></a></font></strong>. Sul nostro sito tutte le informazioni e la modulistica da utilizzare per i due differenti istituti.</font></div>
+<div><font color="#000000"></font>&nbsp;</div>
+<div><font color="#000000"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40875" target="_self"><font color="#990066"><strong>“Palazzina Cremonini”: Avviso pubblico </strong></font></a>per la presentazione di manifestazioni di interesse all’assegnazione in concessione dell’immobile di proprietà comunale ubicato in via Lombardia 55 (Desio)</font></div>
+<div>&nbsp;</div>
+<div><strong><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40800" target="_self"><strong><font color="#990066">&nbsp;Società GSD Srl: due avvisi pubblici per incarichi professionali</font></strong></a>.</strong></div>
+<div>&nbsp;</div>
+<div><font color="#990066"><strong><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40805" target="_self">
+<div><font color="#990066"><strong>Avviso pubblico sponsorizzazione per fornitura autoveicoli in comodato d’uso gratuito</strong></font></div>
+<div>&nbsp;</div></a></strong></font></div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40126" target="_self"><font color="#000000"><font color="#990066"><strong>Letture in digitale.</strong></font></font></a><strong> </strong><font color="#000000">Con il progetto Parco delle Culture e il sistema Brianzabiblioteche, disponibile in Bibioteca il prestito digitale di E-book. </font></div>
+<div>&nbsp;</div>
+<div><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=38999" target="_self"><font color="#990066"><strong>La Polizia Locale ti informa su Telegram</strong></font></a><font color="#000000"><strong>. </strong>Un canale informativo gestito dal Comando di Polizia Locale di Desio, con notizie in tempo reale su traffico, viabilità ed emergenze direttamente sul tuo smartphone.</font></div>
+</font><div><font color="#990066"></font><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40443" target="_self"><font color="#990066"><strong>Tesserini venatori per la stagione 2016-2017 </strong></font></a><font color="#000000">Il rilascio annuale dei tesserini venatori avviene presso l'ufficio Sport nei giorni di martedì e giovedì dalle ore 9.30 alle ore 12.</font></div></div></font></div><font color="#0426c6">
+<div><font color="#990066"><font color="#990066"><font color="#000000"></font></font>&nbsp;</font></div><font color="#990066">
+</font><div><font color="#990066">
+</font><div><font color="#990066">
+<div><font color="#990066"><font color="#000000"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=40458" target="_self"><font color="#990066"><strong>Funghi, per non rischiare ...</strong></font></a><font color="#990066"><strong> </strong></font>Come ogni anno all’approssimarsi della stagione micologica, presso l' ATS Brianza è avviata la campagna 'controllo funghi', dove è attivo il Centro per il controllo dei funghi eduli. </font></font></div></font></div></div></font></div><font color="#0426c6">
+<div>
+<div><font color="#990066"><a title="" href="http://www.comune.desio.mb.it/upload/desio/gestionedocumentale/10Raccoltarifiuti_DESIO_784_20976.pdf" target="_self"><font color="#990066"><strong>Guida alla corretta raccolta differenziata</strong></font></a><font color="#000000"><font color="#990066"><strong> </strong></font>pubblicata la nuova guida informativa per accompagnare i cittadini alla corretta raccolta differenziata.</font></font></div></div>
+</font><div><font color="#0426c6"><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000"><font color="#990066"><font color="#000000"><font color="#000000"></font></font></font></font></font></font></font></font></font></font>&nbsp;</div>
+<div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000"><font color="#990066"><font color="#000000"><font color="#000000"><a title="" href="http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=29398" target="_self"><font color="#000000"><font color="#990066"><strong>Testamento biologico</strong></font></font></a>. Online tutte le informazioni per poter utilizzare lo strumento del 'Registro delle dichiarazioni anticipate di volontà per i trattamenti sanitari</font></font></font> .</font></font></font></font></font></font></div>
+<div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000"></font></font></font></font></font></font></div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+</font></font></font></font></font></font><div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+</font></font></font></font></font></font><div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+</font></font></font></font></font></font><div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+</font></font></font></font></font></font><div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+</font></font></font></font></font></font><div><font color="#0426c6"><font color="#0426c6"><font size="+0"><font color="#000000"><font color="#990066"><font color="#000000">
+<div>
+<div>
+<div>
+<div><font color="#0426c6"><strong></strong></font>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div><font color="#0426c6"><strong>SEGUICI ANCHE SU</strong></font></div>
+<div><strong></strong></div>
+<div><strong><img width="95" height="56" style="WIDTH: 40px; HEIGHT: 37px" alt="logo facebook" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18791"></strong><a title="" href="https://it-it.facebook.com/pages/Comune-Di-Desio/103441483073684" target="_self"><font color="#990066"><strong>Facebook</strong></font></a><font color="#990066"><strong> <img width="38" height="44" style="WIDTH: 38px; HEIGHT: 37px" alt="logo twitter" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18792"> </strong></font><a title="" href="https://mobile.twitter.com/comunedidesio" target="_self"><font color="#990066"><strong>Twitter</strong></font></a><strong> </strong><font color="#990066"><strong></strong></font></div>
+<div></div></div>
+<div><strong><img width="993" height="74" style="WIDTH: 622px; HEIGHT: 60px" alt="piè di pagina dic 2010" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6565" border="0"></strong></div></div></div></div></font></font></font></font></font></font><strong></strong></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
