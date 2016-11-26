@@ -1,5 +1,6 @@
 # Archivio newsletter del Comune di Desio
 
+- [2016-11-25](/archivio/2016-11-25.md)
 - [2016-11-11](/archivio/2016-11-11.md)
 - [2016-11-04](/archivio/2016-11-04.md)
 - [2016-10-28](/archivio/2016-10-28.md)
