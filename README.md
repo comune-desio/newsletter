@@ -1,5 +1,6 @@
 # Archivio newsletter del Comune di Desio
 
+- [Notizie dalla tua Città - Desio 10 novembre 2017](/archivio/2017-11-10.md)
 - [Notizie dalla tua Città - Desio 03 novembre 2017](/archivio/2017-11-03.md)
 - [Notizie dalla tua Città - Desio 27 ottobre 2017](/archivio/2017-10-27.md)
 - [Notizie dalla tua Città - Desio 20 ottobre 2017](/archivio/2017-10-20.md)
