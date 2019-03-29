@@ -1,5 +1,6 @@
 # Archivio newsletter del Comune di Desio
 
+- [Notizie dalla tua Città - Desio 29 marzo 2019](/archivio/2019-03-29.md)
 - [Notizie dalla tua Città - Desio 22 marzo 2019](/archivio/2019-03-22.md)
 - [Notizie dalla tua Città - Desio 15 marzo 2019](/archivio/2019-03-15.md)
 - [Notizie dalla tua Città - Desio 28 dicembre 2018](/archivio/2018-12-28.md)
